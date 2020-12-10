@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broland_Amplifier_Wpf", "Broland_Amplifier_Wpf\Broland_Amplifier_Wpf.csproj", "{687394B1-8EFF-4041-B944-1FAC78A614EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{687394B1-8EFF-4041-B944-1FAC78A614EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{687394B1-8EFF-4041-B944-1FAC78A614EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{687394B1-8EFF-4041-B944-1FAC78A614EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{687394B1-8EFF-4041-B944-1FAC78A614EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D059E0C3-A2E1-4E90-A145-198036F7BA7D}
+	EndGlobalSection
+EndGlobal
